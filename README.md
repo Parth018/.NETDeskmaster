@@ -1,12 +1,12 @@
 # DotnetDesk
-Demonstration web app showing the capabilities of ASP.NET Core 2 MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, datatables, adminlte template and many more. Web app created as helpdesk or ticket support portal.
+Demonstration web app showing the capabilities of ASP.NET Core MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, datatables, adminlte template and many more. Web app created as helpdesk or ticket support portal.
 
 # Technology
-- ASP.NET Core 2 MVC
+- ASP.NET Core MVC
 - EF (Entity Framework) Core Code First
 - jQuery
 - Ajax
-- ASP.NET Core 2 Web API
+- ASP.NET Core Web API
 - Adminlte template
 - datatables.net
 - Dependency Injection
@@ -69,8 +69,6 @@ config
 ![demo5](src/src/wwwroot/images/dotnetdesk5.png)
 ![demo6](src/src/wwwroot/images/dotnetdesk6.png)
 
-# Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
-	
+
 	
 	
