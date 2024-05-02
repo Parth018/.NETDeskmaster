@@ -57,7 +57,7 @@ config
 -	task category [call, meeting, demo, visit]
 -	ticket status[open, on hold, escalated, closed]
 -	ticket priority[high, medium, low]
--	ticket channel [phone, twitter, email, facebook, web, chat, forum]
+-	ticket channel [phone, twitter, email,-facebook, web, chat, forum]
 -	product category [monitor , phone, desktop, laptop, printer, other hardware, windows, word, excel, powerpoint, other software]
 
 # Screenshots
