@@ -1,5 +1,5 @@
 # .netDesk
-Demonstration web app showing the capabilities of ASP.NET Core MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, datatables, adminlte template and many more.Web app created as helpdesk or ticket support portal.
+Demonstrated web app showing the capabilities of ASP.NET Core MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, data tables, adminlte template, and many more.A web app was created as a helpdesk or ticket support portal.
 
 # Technology
 - ASP.NET Core MVC
@@ -57,8 +57,8 @@ config
 -	task category [call, meeting, demo, visit]
 -	ticket status[open, on hold, escalated,closed]
 -	ticket priority[high, medium, low]
--	ticket channel [phone, twitter, email,-facebook, web, chat, forum]
--	product category [monitor , phone, desktop, laptop, printer, other hardware, windows, word, excel, powerpoint, other software]
+-	ticket channel [phone, Twitter, email,-Facebook, web, chat, forum]
+-	product category [monitor, phone, desktop, laptop, printer, other hardware, windows, word, excel, PowerPoint, other software]
 
 # Screenshots
 
