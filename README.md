@@ -12,7 +12,7 @@ Demonstrated web app showing the capabilities of ASP.NET Core MVC, EF (Entity Fr
 - Dependency Injection
 - Email Handling (SendGrid and SMTP)
 - Custom 404/500 error handling
-- file upload (using blueimp jquery-file upload)
+- file handling (using blueimp jquery-file upload)
 
 # Business Process
 - Ticket
