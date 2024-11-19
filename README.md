@@ -1,5 +1,5 @@
 # .netDesk
-Demonstrated web app showing the capabilities of ASP.NET Core MVC, EF (Entity Framework), Web API, Bootstrap, jQuery, data tables, administrative templates, and many more. A web app was created as a helpdesk or ticket support portal.
+Demonstrated web app showing the capabilities of ASP.NET Core MVC, EF Core, Web API, Bootstrap, jQuery, data tables, administrative templates, and many more. A web app was created as a helpdesk or ticket support portal.
 
 # Technology
 - ASP.NET Core MVC
